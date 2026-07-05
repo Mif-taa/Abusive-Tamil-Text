@@ -6,7 +6,9 @@
 [![Rank](https://img.shields.io/badge/Rank-4th%20Place-brightgreen)]()
 
 **Authors:** Miftahul Jannat Rishta, Sumaiya Zaman, Shiti Chowdhury, Hasan Murad
+
 **Venue:** Proceedings of the Sixth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages, ACL 2026
+
 **DOI:** [10.18653/v1/2026.dravidianlangtech-1.29](https://doi.org/10.18653/v1/2026.dravidianlangtech-1.29)
 
 #### 🧩 Overview
